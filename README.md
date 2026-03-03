@@ -14,3 +14,6 @@ To set up a Git repository for version control and project management.
 - src/ : Source code
 - models/ : Saved ML models
 - reports/ : Generated reports
+
+## Feature: Model Training
+Implemented model training pipeline.
