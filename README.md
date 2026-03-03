@@ -17,3 +17,6 @@ To set up a Git repository for version control and project management.
 
 ## Feature: Data Cleaning
 Implemented basic preprocessing module.
+
+## Feature: Model Training
+Implemented model training pipeline.
